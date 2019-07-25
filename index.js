@@ -13,7 +13,7 @@ You should NOT try to redefine any of the above variables.
 
 let newID = oldID;
 
-let currentAge = Number.isInteger(currentAge)
+currentAge.isInteger()
 
 let multiply = var1 * var2;
 
