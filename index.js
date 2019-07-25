@@ -11,7 +11,7 @@ You should NOT try to redefine any of the above variables.
 
 // var2 = 31;
 
-let newID = 1000000000 + oldID;
+let newID = oldID;
 
 let currentAge = Number.isInteger(currentAge)
 
