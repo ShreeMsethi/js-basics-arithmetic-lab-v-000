@@ -11,7 +11,7 @@ You should NOT try to redefine any of the above variables.
 
 // var2 = 31;
 
-let multiply = oldID * currentAge;
+let multiply = var1 * var2;
 
 let random = Math.floor(Math.random())
 
